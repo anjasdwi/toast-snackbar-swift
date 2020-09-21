@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  toast-snackbar-swift
+//  Toast-snackbar
 //
 //  Created by Anjas Dwi on 21/09/20.
 //  Copyright © 2020 Anjas Dwi. All rights reserved.
